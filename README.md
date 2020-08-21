@@ -1,6 +1,8 @@
 # Git-and-github
 
-https://i.morioh.com/2019/11/11/1f265e2d4c43.jpg
+<img src="1f265e2d4c43.jpg"
+     alt="Macaroni icon"
+     style="float: left; margin-right: 10px;" />
 
 Practice of work group and issues management.
 
